@@ -9,7 +9,7 @@ from setuptools import setup
 
 APP = ['FahrenheitToCelsius.py']
 DATA_FILES = []
-OPTIONS = {"iconfile" : "/Users/ayaanshahab/Documents/GitHub/TemperatureConvert/icons8-temperature-48.icns"}
+OPTIONS = {"iconfile" : "PATH TO ICON"}
 
 setup(
     app=APP,
